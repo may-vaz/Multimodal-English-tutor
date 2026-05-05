@@ -3,7 +3,6 @@
 **Overview**
 
 This project is a multimodal AI-powered English tutor that evaluates and improves a learner’s language skills through structured, stage-based interaction.
-
 It combines LLMs, speech recognition, and adaptive task flows to simulate a real teacher-like feedback loop — focusing on grammar accuracy, correction, and guided improvement.
 
 **Tech Stack**
