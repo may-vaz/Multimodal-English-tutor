@@ -6,10 +6,15 @@ This project is a multimodal AI-powered English tutor that evaluates and improve
 It combines LLMs, speech recognition, and adaptive task flows to simulate a real teacher-like feedback loop — focusing on grammar accuracy, correction, and guided improvement.
 
 **Tech Stack**
+
 LLMs: Ollama (llama3, llava)
+
 Orchestration: LangGraph
+
 Speech-to-Text: faster-whisper
+
 Frontend: Streamlit
+
 State Management: In-memory checkpointing
 
 **Installation**
@@ -31,6 +36,7 @@ Frontend (Streamlit)
 Handles user interaction, transcription display, and feedback rendering.
 
 **Key Features**
+
 3-stage adaptive learning pipeline
  * Image Description (vision + language)
  * Sentence Correction (grammar precision)
