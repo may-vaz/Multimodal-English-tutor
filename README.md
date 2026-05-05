@@ -8,13 +8,9 @@ It combines LLMs, speech recognition, and adaptive task flows to simulate a real
 **Tech Stack**
 
 LLMs: Ollama (llama3, llava)
-
 Orchestration: LangGraph
-
 Speech-to-Text: faster-whisper
-
 Frontend: Streamlit
-
 State Management: In-memory checkpointing
 
 **Installation**
