@@ -35,5 +35,4 @@ Converts voice input to text using faster-whisper (CPU optimized).
 Frontend (Streamlit)
 Handles user interaction, transcription display, and feedback rendering.
 
-puts for reliability
 
